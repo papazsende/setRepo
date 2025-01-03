@@ -1,1 +1,2 @@
-print = "Hello World"print("Bunu yeni ekledik")
+#Bu Bir yorum satırı
+print("Bunu yeni ekledik")
